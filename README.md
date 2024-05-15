@@ -1,8 +1,8 @@
-Diwali Sales Data Analysis
+**Diwali Sales Data Analysis**
 Overview
 This project involves the analysis of Diwali sales data to gain insights into customer demographics, purchasing behavior, and popular product categories. The data is explored using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
-Contents
+**Contents**
 Introduction
 Dataset Description
 Exploratory Data Analysis
@@ -35,4 +35,4 @@ Sales trends across different states and zones
 Impact of marital status on purchasing power
 Popular occupations and preferred product categories
 Conclusion
-Based on the analysis, several key observations and conclusions are drawn regarding customer demographics, purchasing behavior, and product preferences during the Diwali sales period.
+Based on the analysis, several key observations and conclusions are drawn regarding customer demographics, purchasing behavior, and product preferences during the Diwali sales period
