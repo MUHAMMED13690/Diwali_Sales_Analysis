@@ -1,21 +1,27 @@
-**Diwali Sales Data Analysis**
-Overview
+# Diwali Sales Data Analysis
+
+## Overview
+
 This project involves the analysis of Diwali sales data to gain insights into customer demographics, purchasing behavior, and popular product categories. The data is explored using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
-**Contents**
-Introduction
-Dataset Description
-Exploratory Data Analysis
-Conclusion
-Introduction
+## Contents
+
+1.Introduction
+2.Dataset Description
+3.Exploratory Data Analysis
+4.Conclusion
+
+## Introduction
+
 Diwali is one of the major festivals in India, often associated with increased consumer spending on various products. This project aims to analyze sales data from the Diwali period to understand patterns and trends in customer behavior.
 
-Dataset Description
+##Dataset Description
+
 The dataset used for analysis contains information about Diwali sales, including customer demographics (such as age, gender, marital status, occupation), product details (category, ID), and sales figures (orders, amount). Here's a brief overview of the dataset:
 
-User_ID: Unique identifier for each customer
-Cust_name: Customer name
-Product_ID: Unique identifier for each product
+~~ User_ID: Unique identifier for each customer
+~~ Cust_name: Customer name
+~~ Product_ID: Unique identifier for each product
 Gender: Gender of the customer
 Age Group: Age group of the customer
 Age: Age of the customer
